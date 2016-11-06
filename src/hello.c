@@ -4,4 +4,5 @@
 
 void main()
 {
- 
+  sys.out(" Hello! ");
+}
